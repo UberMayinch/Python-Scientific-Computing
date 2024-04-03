@@ -1,4 +1,8 @@
-This is my coursework from the Computing in Sciences 2 course. 
+This repository contains the work I have done with scientific computing.
+
+The simulations directory involves work I have been doing for my research. It includes mainly topics related to network science and nonlinear dynamics covered in python or julia.
+
+The CIS directory contains my coursework from the Computing in Sciences 2 course. 
 The python notebooks covered the following topics:
 1. Probability and Statistics (Simulating Random Walks etc.)
 2. Integration (High Dimensional Integration using Monte Carlo Methods, Adaptive Integral sizes)
